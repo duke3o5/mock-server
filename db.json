@@ -1,9 +1,10 @@
 {
     "todo": [
         {
-        "title" : "Task-1",
-        "status": false,
-        "id": "scbslhcgc"
-    }
-]
+            "title": "Task-1",
+            "status": false,
+            "id": "scbslhcgc"
+        }
+    ],
+    "Inventory": []
 }
